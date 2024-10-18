@@ -2,7 +2,8 @@
 
 
 ## API Overview
-The API is ready to be consumed with no errors once deployed. Example API endpoint:
+The API is ready to be consumed with no errors once deployed. 
+- Example API endpoint:
 - http://localhost:3001/api/1/users
 
 
