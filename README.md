@@ -5,7 +5,6 @@
 The API is ready to be consumed with no errors once deployed. Example API endpoint:
 http://localhost:3001/api/1/users
 
-You can use this endpoint to fetch the data after setting up the environment as described below. Make sure to test the available endpoints through Postman or any API testing tool.
 
 **Important**: Ensure that there are **two terminals** running:
 - One for running the Docker services.
@@ -42,7 +41,7 @@ You can use this endpoint to fetch the data after setting up the environment as 
     ```
    (Sometimes the name is different, check with `docker ps`).
 
-5. Load the Postman collection from the root directory `'Engineering.postman_collection.json'` and test the API endpoints.
+
 
 #### Connection Details
 
