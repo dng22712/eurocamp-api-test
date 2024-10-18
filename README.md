@@ -24,11 +24,11 @@ You can use this endpoint to fetch the data after setting up the environment as 
 ### Steps
 1. Git clone the repository:
     ```bash
-    git clone https://github.com/Eurocamp/engineering-test.git
+    git clone https://github.com/Eurocamp/eurocamp-api-test.git
     ```
 2. `cd` into the engineering-test directory:
     ```bash
-    cd engineering-test
+    cd eurocamp-api-test
     ```
 3. Run:
     ```bash
@@ -42,9 +42,7 @@ You can use this endpoint to fetch the data after setting up the environment as 
     ```
    (Sometimes the name is different, check with `docker ps`).
 
-5. Check that there is data in the database tables (see below for connection details). Also, review the API documentation at [http://localhost:3001/api](http://localhost:3001/api).
-
-6. Load the Postman collection from the root directory `'Engineering.postman_collection.json'` and test the API endpoints.
+5. Load the Postman collection from the root directory `'Engineering.postman_collection.json'` and test the API endpoints.
 
 #### Connection Details
 
