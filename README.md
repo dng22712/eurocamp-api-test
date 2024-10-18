@@ -3,6 +3,16 @@
 ## Introduction
 Thanks for using this test. We have created a simple API that deploys in a Docker container. We've devised some small tasks that will help us gauge your fit. Please follow the installation instructions carefully and don't spend any more time than allocated in the tasks below. If you run out of time or it is too exhausting, please post what you have, and we will review it regardless.
 
+## API Overview
+The API is ready to be consumed with no errors once deployed. Example API endpoint:
+http://localhost:3001/api/1/users
+
+You can use this endpoint to fetch the data after setting up the environment as described below. Make sure to test the available endpoints through Postman or any API testing tool.
+
+**Important**: Ensure that there are **two terminals** running:
+- One for running the Docker services.
+- One for running the API service and interacting with it.
+
 ## Installation (15 minutes)
 
 ### Prerequisites
