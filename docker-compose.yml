@@ -27,7 +27,7 @@ services:
     links:
       - eurocamp-db
     environment:
-      - DB_HOST=eurocamp-db
+      - DB_HOST=localhost
       - DB_PORT=5432
       - DB_USER=postgres
       - DB_PASSWORD=postgres
