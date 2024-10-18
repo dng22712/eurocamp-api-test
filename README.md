@@ -38,7 +38,7 @@ You can use this endpoint to fetch the data after setting up the environment as 
 
 4. Run:
     ```bash
-    docker exec -it engineering-test_eurocamp-api_1 npm run seed:run
+    docker exec -it eurocamp-api-test npm run seed:run
     ```
    (Sometimes the name is different, check with `docker ps`).
 
