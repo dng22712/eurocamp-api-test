@@ -1,7 +1,5 @@
-# Quick Test
 
-## Introduction
-Thanks for using this test. We have created a simple API that deploys in a Docker container. We've devised some small tasks that will help us gauge your fit. Please follow the installation instructions carefully and don't spend any more time than allocated in the tasks below. If you run out of time or it is too exhausting, please post what you have, and we will review it regardless.
+
 
 ## API Overview
 The API is ready to be consumed with no errors once deployed. Example API endpoint:
