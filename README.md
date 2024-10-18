@@ -2,7 +2,8 @@
 
 Thank you for this oppurtunity!
 
-Please find the link to the task 1 and 2: [https://drive.google.com/file/d/14VJTkMCpXE-qFiym0iQXK79cZIRDodGn/view?usp=sharing]
+- I've fixed the docker container connections and configs to make it running, installed few dependencies and have written the client node service for consuming APIs.
+- Please find the link to the task 1 and 2: [https://drive.google.com/file/d/14VJTkMCpXE-qFiym0iQXK79cZIRDodGn/view?usp=sharing]
 However, I have also attached it to the mail.
 
 ## API Overview
